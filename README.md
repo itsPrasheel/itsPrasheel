@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm Prasheel</h1>
 <h3 align="center">A passionate software developer</h3>
 <a align="center" href="prasheel.in">prasheel.in</a>
@@ -32,3 +31,25 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkrishna094&show_icons=true&locale=en" alt="rohitkrishna094" /></p>
 
 
+<a target="_blank" href="https://shawncharles.com/">
+  <img src="https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80" width="100%">
+</a>
+
+<p align="center">
+  <a target="_blank" href="https://prasheel.in/">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/shawnxcharles/">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
+  </a>
+  <a target="_blank" href="https://twitter.com/shawnbasquiat">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
+  </a>
+  <a target="_blank" href="http://travelara.org">
+    <img src="images/plane.png" width="30px;" alt="Travelara.org"/>
+  </a>
+</p>
+-->
+<h1 align="center">Hi 👋, I'm Prasheel</h1>
+<h3 align="center">A passionate software developer</h3>
+<a align="center" href="prasheel.in">prasheel.in</a>
