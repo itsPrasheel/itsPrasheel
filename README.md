@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Prasheel</h1>
 <h3 align="center">A passionate software developer</h3>
 <a align="center" href="prasheel.in">prasheel.in</a>
-<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkrishna094&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkrishna094" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkrishna094" alt="rohitkrishna094" /></a> </p>
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitkrishna094&show_icons=true&locale=en&layout=compact" alt="rohitkrishna094" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkrishna094&show_icons=true&locale=en" alt="rohitkrishna094" /></p>
--->
+
 
